@@ -1,13 +1,12 @@
 Package: com.r333d.cylinder
 Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: Crym <cryms0ndev.github.io@gmail.com>
-Filename: /Cylinder.deb
-Size: 255488
-MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
-SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
-SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
 Section: Tweaks
+Maintainer: Crym <cryms0ndev.github.io@gmail.com>
+Depends: firmware (>4.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Cylinder.deb
+Size: 252
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
 Description: Compatible with iOS 4, 5, 6, 7, 8, 9 and 10
 Compatible with CarPlay
 
@@ -22,5 +21,5 @@ If, for some reason, these 35,184,372,088,832 animations do not satisfy your nee
 You can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.
 
 Configure options from Settings.
-Author: Reed Weichler <rweichler+cydia@gmail.com>
 Name: Cylinder
+Author: Reed Weichler <rweichler+cydia@gmail.com>
