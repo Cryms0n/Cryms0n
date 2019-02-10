@@ -1,0 +1,25 @@
+Package: com.r333d.cylinder
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Crym <cryms0ndev.github.io@gmail.com>
+Depends: firmware (>4.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./Cylinder.deb
+Size: 252
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+Description: Compatible with iOS 4, 5, 6, 7, 8, 9 and 10
+Compatible with CarPlay
+
+Sexy homescreen icon animations
+
+Currently there are 45 icon effects.
+
+If you take combinations into account, then there are 35,184,372,088,832 effects.
+
+If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in /Library/Cylinder.
+
+You can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.
+
+Configure options from Settings.
+Name: Cylinder
+Author: Reed Weichler <rweichler+cydia@gmail.com>
